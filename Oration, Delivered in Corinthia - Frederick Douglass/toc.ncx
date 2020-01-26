@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="9c9ea6c1-8ab7-4fa6-a7ec-db724ab30b2e" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Oration, Delivered in Corinthian Hall, Rochester</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="001-cse-cover-page.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>About this Edition</text>
+      </navLabel>
+      <content src="002-cse-about.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Oration</text>
+      </navLabel>
+      <content src="005-oration.xhtml"/>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Oration</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_8"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>The Present.</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Internal Slave Trade.</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Religious Liberty.</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_4"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>The Church Responsible.</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_5"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Religion in England and Religion in American</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_6"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>The Constitution</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_7"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Notes</text>
+        </navLabel>
+        <content src="005-oration.xhtml#toc_3"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
